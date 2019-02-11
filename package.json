@@ -1,0 +1,33 @@
+{
+  "name": "minyan-machine",
+  "version": "0.0.1",
+  "description": "A tool for scheduling, finding, and joining minyanim on the fly.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelkolber/minyan-machine.git"
+  },
+  "keywords": [
+    "minyan",
+    "jew",
+    "jewish",
+    "judaism",
+    "shacharis",
+    "shacharit",
+    "mincha",
+    "maariv",
+    "arvit",
+    "daven"
+  ],
+  "author": "Michael Kolber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelkolber/minyan-machine/issues"
+  },
+  "homepage": "https://github.com/michaelkolber/minyan-machine#readme"
+}
